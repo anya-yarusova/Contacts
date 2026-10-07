@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="found_contacts">Found %1$d contacts</string>
+    <string name="no_contacts">No contacts found</string>
+    <string name="no_permission_title">No permission to read contacts</string>
+    <string name="no_permission_text">Without the READ_CONTACTS permission the contact list is unavailable. Allow contact access in app settings and try again.</string>
+    <string name="loading">Loading contacts…</string>
+    <string name="contact_number">Number %1$s</string>
+    <string name="dial_error">Could not open the Calls app</string>
+</resources>

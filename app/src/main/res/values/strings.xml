@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="found_contacts">Найдено %1$d контактов</string>
+    <string name="no_contacts">Контакты не найдены</string>
+    <string name="no_permission_title">Нет разрешения на чтение контактов</string>
+    <string name="no_permission_text">Без разрешения READ_CONTACTS список контактов недоступен. Разрешите доступ к контактам в настройках приложения и вернитесь снова.</string>
+    <string name="loading">Загрузка контактов…</string>
+    <string name="contact_number">Номер %1$s</string>
+    <string name="dial_error">Не удалось открыть приложение Звонки</string>
+</resources>
